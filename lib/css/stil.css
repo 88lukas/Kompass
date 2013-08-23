@@ -1,0 +1,49 @@
+* {
+	background:#CCCCCC;
+	background-image: -moz-linear-gradient(top left, #ccc 25%, #000 75%);
+	background-image: -webkit-linear-gradient(top left, #ccc 25%, #000 75%);
+	background-image: linear-gradient(top left, #ccc 25%, #000 75%);
+}
+.rundeEcken {
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border-style: solid;
+	border-width: 1pt;
+	
+	
+}
+.hintergrund {
+	background:#000000;
+}
+.vordergrund{
+	color: green;
+}
+.schriftgroes{
+	font-size: 60px;
+	
+}
+.schriftspeed{
+	font-size: 120px;
+	
+}
+.vordergrundspeed{
+	color: yellow;
+}
+
+.ausrichtung{
+	text-align: center;
+}
+.ausrichtung2 {
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#rose {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 250px;
+}
